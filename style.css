@@ -12,6 +12,29 @@ color: aliceblue;
 .head-gift{
   text-align: center;
 }
+.my-account a{
+  color: aliceblue;
+  text-decoration: none;
+  
+  
+}
+.search-field{
+  padding: 10px;
+  font-size: 17px;
+  
+  
+}
+.customer-service{
+  text-decoration: none;
+  color: black;
+}
+.button{
+  display: inline-block;
+  margin: 2px;
+  border-radius: 5px;
+  background-color: black;
+color: #fff;
+}
 
 
   
